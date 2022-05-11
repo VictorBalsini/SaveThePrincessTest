@@ -1,6 +1,6 @@
 # SaveThePrincessTest
 
-Solutions to the 'save princess' challenges on HackerRank
+Solutions to the 'Bot saves princess' challenges on HackerRank
 
 Save Princess -> https://www.hackerrank.com/challenges/saveprincess 
 
